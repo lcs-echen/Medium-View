@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Hard_View: View {
     var body: some View {
-        VStack(alignment: .leading) {
+        VStack(alignment: .center) {
             Text("DATA VISUALIZATION")
                 .font(.largeTitle)
 
@@ -20,20 +20,27 @@ struct Hard_View: View {
             HStack(alignment: .top){
                 Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed faucibus turpis in eu mi bibendum.    ")
                     .font(.body)
+                    .multilineTextAlignment(.leading)
                     .padding(.trailing, 10.0)
                     .frame(width: 110.0, height: 200.0)
                 Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida cum sociis natoque penatibus.  ")
                     .font(.body)
                     .multilineTextAlignment(.leading)
-                    .frame(width: 100.0, height: 200.0)
+                    .padding(.trailing, 10.0)
+                    .frame(width: 110.0, height: 200.0)
                 Text("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit eget gravida cum.  ")
                     .font(.body)
-                    .frame(width: 100.0, height: 200.0)
+                    .multilineTextAlignment(.leading)
+                    .padding(.trailing, 10.0)
+                    .frame(width: 110.0, height: 200.0)
                 ZStack{
                     HStack {
                         Text("Egestas pretium aenean pharetra magna ac. Arcu odio ut sem nulla. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut.")
-                            .frame(width: 100.0, height: 200.0)
+                            .padding(.trailing, 10.0)
+                            .frame(width: 110.0, height: 200.0)
                         Text("Gravida rutrum quisque non tellus orci ac auctor augue mauris. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. ")
+                            .font(.body)
+                            .multilineTextAlignment(.leading)
                             .frame(width: 100.0, height: 200.0)
                     }
                     Circle()
