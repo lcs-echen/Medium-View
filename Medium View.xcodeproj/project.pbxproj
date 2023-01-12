@@ -11,6 +11,7 @@
 		CA5E9A10296FA6EB00957E97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5E9A0F296FA6EB00957E97 /* ContentView.swift */; };
 		CA5E9A12296FA6EE00957E97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA5E9A11296FA6EE00957E97 /* Assets.xcassets */; };
 		CA5E9A15296FA6EE00957E97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA5E9A14296FA6EE00957E97 /* Preview Assets.xcassets */; };
+		CA5E9A1D296FAC2B00957E97 /* Hard View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5E9A1C296FAC2B00957E97 /* Hard View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CA5E9A11296FA6EE00957E97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA5E9A14296FA6EE00957E97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA5E9A16296FA6EE00957E97 /* Medium_View.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Medium_View.entitlements; sourceTree = "<group>"; };
+		CA5E9A1C296FAC2B00957E97 /* Hard View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hard View.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CA5E9A0D296FA6EB00957E97 /* Medium_ViewApp.swift */,
 				CA5E9A0F296FA6EB00957E97 /* ContentView.swift */,
+				CA5E9A1C296FAC2B00957E97 /* Hard View.swift */,
 				CA5E9A11296FA6EE00957E97 /* Assets.xcassets */,
 				CA5E9A16296FA6EE00957E97 /* Medium_View.entitlements */,
 				CA5E9A13296FA6EE00957E97 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA5E9A1D296FAC2B00957E97 /* Hard View.swift in Sources */,
 				CA5E9A10296FA6EB00957E97 /* ContentView.swift in Sources */,
 				CA5E9A0E296FA6EB00957E97 /* Medium_ViewApp.swift in Sources */,
 			);
