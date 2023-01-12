@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		CA5E9A0A296FA6EB00957E97 /* Medium View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Medium View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA5E9A0D296FA6EB00957E97 /* Medium_ViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medium_ViewApp.swift; sourceTree = "<group>"; };
-		CA5E9A0F296FA6EB00957E97 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 4; };
+		CA5E9A0F296FA6EB00957E97 /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 3; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 4; };
 		CA5E9A11296FA6EE00957E97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA5E9A14296FA6EE00957E97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA5E9A16296FA6EE00957E97 /* Medium_View.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Medium_View.entitlements; sourceTree = "<group>"; };
