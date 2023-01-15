@@ -35,10 +35,10 @@ struct Hard_View: View {
                     .frame(width: 110.0, height: 200.0)
                 ZStack{
                     HStack {
-                        Text("Egestas pretium aenean pharetra magna ac. Arcu odio ut sem nulla. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut.")
+                        Text("Egestas pretium aenean pharetra magna ac. Arcu odio ut sem nulla. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut.Gravida rutrum quisque non tellus orci ac auctor augue mauris. Donec et odio pellentesque diam volutpat commodo sed egestas egestas.")
                             .padding(.trailing, 10.0)
                             .frame(width: 110.0, height: 200.0)
-                        Text("Gravida rutrum quisque non tellus orci ac auctor augue mauris. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. ")
+                        Text("Gravida rutrum quisque non tellus orci ac auctor augue mauris. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Gravida rutrum quisque non tellus orci ac auctor augue mauris. Donec et odio pellentesque diam volutpat commodo sed egestas egestas.")
                             .font(.body)
                             .multilineTextAlignment(.leading)
                             .frame(width: 100.0, height: 200.0)
